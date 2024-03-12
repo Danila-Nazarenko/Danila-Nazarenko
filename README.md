@@ -9,7 +9,6 @@ I've been learning code for last 2 years.
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [nazarenko\_danila@inbox.ru](mailto:nazarenko_danila@inbox.ru)
 * 🧠  I'm learning JS
-* ⚡  my bench is 100kg/225lbs and deadlift 170kg/375lbs
 
 ### Skills
 
