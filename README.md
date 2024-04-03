@@ -1,6 +1,7 @@
-Hi 👋 My name is Danila
-=======================
-![Python-Web-Development](https://github.com/Danila-Nazarenko/Danila-Nazarenko/assets/79271335/0c28b29d-e6a5-459b-a7a0-60575e9b24d7)
+
+![sale](https://github.com/Danila-Nazarenko/Danila-Nazarenko/assets/79271335/110d1667-80e2-4797-b06f-3ec77aa15484)
+
+
 
 Student
 -------
